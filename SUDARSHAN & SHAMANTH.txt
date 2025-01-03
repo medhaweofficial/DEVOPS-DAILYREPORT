@@ -1,8 +1,28 @@
 Daily report - (31/12/24)
-
 - Followed up with Trustgrow company for the setup which was pending but they didn’t have the credentials. They are looking for it with the local provider. Once they receive that, we will complete the setup.
 - The MTC company Tally application error was resolved.
 - No computer in pool error for the user mgroad_counter4@kshdc.com was resolved.
 - Logged into the Anzania environment on hyp1 and increased the memory of all the Bustisha VMs to 16GB each.
 - Created a Gmail account named ondutymedhawe@gmail.com and used it to create an official GitHub account for Medhawe. A new repository called NOC-DAILY-UPDATE was created to store all the daily updates. The instructions were shared with the WhatsApp group.
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily report - (01/01/25)
+- Had a meeting with Shreenidhi Motors, gained access to their server and renewed the RD license. There was some error which was resolved.
+- Looked into CCNA exam preparation materials on different platforms such as Orhanergun.
+- Brushing up on some topics in NSE and started preparing for the NSE 4 exam with the fortinet training course.
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily report - (02/01/25)
+- A new user was created for Ovum.
+- Coordinated Pavana with resolving some technical issues related to Brilliant Duo.
+- Identified and resolved the login issue for the new Ovum user and shared the new application to fix the error.
+- Replaced one user ID for Suite42.
+- Created the NOC report for December and sent via mail.
+
+Daily report - (03/01/25)
+- Coordinated with Brilyant to run the CDB tool on their server.
+- Araya's company Tally: The issue of users not being able to log in was resolved.
+- Adukale Tally users were experiencing performance issues, which was addressed and fixed.
+- A new user was created for Edutech (Premier) and the credentials were sent to Nuthan via mail.
+- Yash asked to allow port 8087 on the 10.158.111.50 machine. Logged into the Azania environment, did ssh into the machine with the credentials provided by him and allowed the required port.
 - Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
