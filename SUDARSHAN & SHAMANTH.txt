@@ -26,3 +26,11 @@ Daily report - (03/01/25)
 - A new user was created for Edutech (Premier) and the credentials were sent to Nuthan via mail.
 - Yash asked to allow port 8087 on the 10.158.111.50 machine. Logged into the Azania environment, did ssh into the machine with the credentials provided by him and allowed the required port.
 - Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily report - (04/01/25)
+- RST company Nextcloud storage account was created and shared with Nuthun via email.
+- RST company Tally TDL file, sent by Nuthun via email, was added to their folder on the server and loaded into Tally.
+- Yash asked to unlock the app_admin user on the machines 10.158.112.18 and 10.158.112.20. Logged into the Azania environment and completed the task as per the instructions.
+- Learned how to enable and integrate Guacamole with AD using LDAP.
+- Created an official website for medhawe.com using WordPress with all necessary screens, and it will be deployed once it is reviewed and finalized.
+- Supported the NOC team by working on the first shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
