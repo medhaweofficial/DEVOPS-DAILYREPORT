@@ -35,3 +35,14 @@ Daily report - (04/01/25) & (05/01/25)
 - Learned how to enable and integrate Guacamole with AD using LDAP.
 - Created an official website for medhawe.com using WordPress with all necessary screens, and it will be deployed once it is reviewed and finalized.
 - Supported the NOC team by working on the first shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily report - (06/01/25)
+- SSSE login issue due to account expiration, which has been resolved.
+- ECS login issue due to account expiration, which has been resolved.
+- Base users frequently disconnected session issue: Monitored the Geeta ID and there was no issue from the server side. Concluded that the issue is from the client end, likely due to a network problem.
+- Vatsram Jeevan Tally hanging issue is resolved.
+- AAW biz sync issue is resolved.
+- INP user list shared with Nuthan.
+- Trustgrow implementation: Followed up with them. They are purchasing a new router and public IP. This work is currently on hold.
+- Created two VMs in a VMware environment. One is installed with Windows Server 2022 and configured as AD with the domain sagaranoc.local. The other VM is installed with Ubuntu Server 22.04.3. On the Ubuntu server, rsyslog has been installed and configured and all the logs from Windows are being sent to this rsyslog server using nxlog for Windows. The integration has been tested and is working fine. We have also installed Elasticsearch on the Linux server and attempted to integrate it with Kibana. Need to try using Graylog or another open-source log aggregator.
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
