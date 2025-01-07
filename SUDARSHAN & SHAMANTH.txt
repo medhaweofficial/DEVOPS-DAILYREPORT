@@ -46,3 +46,8 @@ Daily report - (06/01/25)
 - Trustgrow implementation: Followed up with them. They are purchasing a new router and public IP. This work is currently on hold.
 - Created two VMs in a VMware environment. One is installed with Windows Server 2022 and configured as AD with the domain sagaranoc.local. The other VM is installed with Ubuntu Server 22.04.3. On the Ubuntu server, rsyslog has been installed and configured and all the logs from Windows are being sent to this rsyslog server using nxlog for Windows. The integration has been tested and is working fine. We have also installed Elasticsearch on the Linux server and attempted to integrate it with Kibana. Need to try using Graylog or another open-source log aggregator.
 - Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily report - (07/01/25)
+- The Tally user, admin_polymer@dhash.poly was experiencing an unusual display size which has been resolved.
+- In the Linux server, Loki and Promtail are installed and configured to read the logs. Grafana is also installed on the same server and integrated with Loki. Loki is able to send the logs to the Grafana dashboard. Now creating a visual dashboard to manage and filter the logs in a structured way.
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
