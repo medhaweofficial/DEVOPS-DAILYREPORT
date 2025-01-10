@@ -51,3 +51,17 @@ Daily report - (07/01/25)
 - The Tally user, admin_polymer@dhash.poly was experiencing an unusual display size which has been resolved.
 - In the Linux server, Loki and Promtail are installed and configured to read the logs. Grafana is also installed on the same server and integrated with Loki. Loki is able to send the logs to the Grafana dashboard. Now creating a visual dashboard to manage and filter the logs in a structured way.
 - Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily Report - (08/01/25)
+- AAW sync issue was raised by the client and concluded with related data such as app uptime, server uptime, etc.
+- Connected with Yash and listed all the details of PR and DR Hyper-V VMs in Excel, making an inventory of Hostname, IP, VLAN ID, OS, Disk Space, etc.
+
+Daily Report - (09/01/25)
+- Innovative Biz sync issue has been resolved.
+- Brilliant Tally license has been reactivated, and the Tally service stop issue is resolved.
+- Vistara on-premises server remote desktop service license issue has been resolved.
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily Report - (10/01/25)
+- Configured SMTP in GLPI for the test environment, which was working, and ticket notifications were going into the queue, but automatic emails were not being sent. To fix this, logged into the server and set it to automatically send notifications in the queue every 1 minute using the cron utility.
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
