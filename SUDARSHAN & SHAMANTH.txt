@@ -63,5 +63,5 @@ Daily Report - (09/01/25)
 - Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
 
 Daily Report - (10/01/25)
-- Configured SMTP in GLPI for the test environment, which was working, and ticket notifications were going into the queue, but automatic emails were not being sent. To fix this, logged into the server and set it to automatically send notifications in the queue every 1 minute using the cron utility.
+- Configured SMTP in GLPI in the test environment, which was working, and ticket notifications were going into the queue, but automatic emails were not being sent. To fix this, logged into the server and set it to automatically send notifications in the queue every 1 minute using the crontab utility.
 - Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
