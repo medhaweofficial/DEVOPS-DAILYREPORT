@@ -65,3 +65,23 @@ Daily Report - (09/01/25)
 Daily Report - (10/01/25)
 - Configured SMTP in GLPI in the test environment, which was working, and ticket notifications were going into the queue, but automatic emails were not being sent. To fix this, logged into the server and set it to automatically send notifications in the queue every 1 minute using the crontab utility.
 - Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily Report - (11/01/25) 
+- Had a meeting with Santhosh sir and Yash to learn how OS upgrades work in the Azania environment. Also performed some tasks related to upgrading RHEL and Windows servers as per the instructions given by Yash.  
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily Report - (12/01/25) 
+- Had a meeting with Maurti sir and Anandu to learn about how firewall upgrades are handled in the Azania environment.  
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily Report - (13/01/25) 
+- Took access of the SBE company MAC user to configure RDP and provided access to their Tally application.
+- Shared the user list of HHH company via the WhatsApp group.
+- The issue with the innovative license going into educational mode has been resolved. 
+- Coordinated with Brilyant to run the CDB tool on their server.
+- Configured GLPI to send an mail notification to the user assigned to a ticket and to an observer when a ticket is updated.  
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily Report - (14/01/25)
+- Had a meeting with Anandu to learn about how fortimanager upgrades are handled in the Azania environment.  
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
