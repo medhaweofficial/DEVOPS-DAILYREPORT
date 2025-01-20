@@ -85,3 +85,41 @@ Daily Report - (13/01/25)
 Daily Report - (14/01/25)
 - Had a meeting with Anandu to learn about how fortimanager upgrades are handled in the Azania environment.  
 - Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily Report - (15/01/25)
+
+- Customer Tejaswini was facing an error while logging into Tally, which was fixed.
+- Nuthan requested the creation of two users for Brilliant, which were created and all the credentials were sent to him via mail.
+- Resolved the RDP login issue for innovative user umesh .
+- Demonstrated and configured cloud-to-local printing for Rajyalakshmi.
+
+Daily Report - (16/01/25)
+
+- Sent the activation link to sinchana.nk@brilyant.com and asked them to download the duo app, use the activation link to activate and user credentials were also sent via mail.
+- Resolved the Tally issue for the user umesh_iia@innovative.in.
+- Supported the NOC team by working the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+Daily Report - (17/01/25)
+
+- Had a meeting with Santhosh sir and Yash to get to know how OS upgrades work for PR machines in the Azania environment. Also performed some tasks related to upgrading RHEL and Windows servers as per the instructions given by Yash.  
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group. 
+
+Daily Report - (18/01/25)
+
+- During the PR upgrade, no alerts were received about the status of vms from Grafana. Logged into the Grafana server and discovered that the Grafana service was inactive. It has now been started, and the alert policy has been updated by excluding the three DR VMs that were powered off.
+- Yash requested to log into the Azania environment. SSH'd into 10.158.111.162 and added dkomba ALL=(ALL) ALL in the sudoers file. He informed me to comment it out tomorrow.
+- Had a meeting with Maruti sir and Anandu to learn about how fortimanager upgrades for PR devices are handled in the Azania environment. 
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group. 
+
+Daily Report - (19/01/25)
+
+- Restored the WordPress backup for medhawe.com and fixed the alignment issues.
+- Logged into the Azania environment. SSH'd into 10.158.111.162 and commented the dkomba ALL=(ALL) ALL in the sudoers file. 
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group. 
+
+Daily Report - (20/01/25)
+
+- We have enabled the FS usage report in Grafana. When /var/log/audit and /var reach 80%, we receive an mail alert to all the specified mails.
+- Yash instructed us to prepare documentation for all the PR VMs, including screenshots of /etc/group, /etc/sudoers and the output of cd / and ls -l.
+- Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group. 
+
